@@ -1,0 +1,5 @@
+node_modules/
+kit*/
+kit.tar.gz
+/output/
+*.log
